@@ -1,0 +1,22 @@
+{
+  "name": "learn-node-sendmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itchampza/Learn-Node-sendMail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itchampza/Learn-Node-sendMail/issues"
+  },
+  "homepage": "https://github.com/itchampza/Learn-Node-sendMail#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.8"
+  }
+}
